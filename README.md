@@ -131,12 +131,9 @@ result = predict_diabetes(new_patient, best_rf, scaler)
 
 ```
 Diabetes-Prediction-System/
-
 │
 ├── diabetes.csv
-
 ├── diabetes_prediction.ipynb
-
 ├── README.md
 ```
 
