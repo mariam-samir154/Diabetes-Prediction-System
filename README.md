@@ -139,6 +139,3 @@ Diabetes-Prediction-System/
 
 ---
 
-## 🚀 Future Improvements
-
-* Handle zero-value medical f
